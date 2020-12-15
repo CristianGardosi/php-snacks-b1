@@ -1,0 +1,21 @@
+body {
+    background: #1f4037; 
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037); 
+    background: linear-gradient(to right, #99f2c8, #1f4037); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+}
+
+p {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
